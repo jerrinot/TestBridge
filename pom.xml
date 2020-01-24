@@ -11,6 +11,7 @@
     <modules>
         <module>hz3server</module>
         <module>demo</module>
+        <module>hz4server</module>
     </modules>
 
     <properties>
