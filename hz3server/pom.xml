@@ -11,7 +11,7 @@
 
     <artifactId>hz3server</artifactId>
     <properties>
-        <hazelcast.version>3.12.5</hazelcast.version>
+        <hazelcast.version>3.12.13</hazelcast.version>
     </properties>
 
     <dependencies>
