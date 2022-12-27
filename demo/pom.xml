@@ -11,7 +11,7 @@
     <artifactId>demo</artifactId>
 
     <properties>
-        <jet.version>4.0-SNAPSHOT</jet.version>
+        <jet.version>4.5.4</jet.version>
         <bridge.version>v0.1</bridge.version>
     </properties>
 
